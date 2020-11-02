@@ -1,2 +1,3 @@
 # lerning
-understanding git and github
+understanding git and github but don't know to
+
